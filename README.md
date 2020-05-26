@@ -2,8 +2,6 @@
 
 Autocomplete is nice. 
 
-example:
-
 clone, then use with:
 
     import sys
